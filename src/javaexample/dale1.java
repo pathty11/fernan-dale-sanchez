@@ -12,7 +12,7 @@ package javaexample;
 import java.util.Scanner;
 public class dale1 {
  
-
+/***/
 
     public static void main(String[] args) 
     {
